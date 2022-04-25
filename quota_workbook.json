@@ -13,7 +13,7 @@
               "type": 6,
               "isRequired": true,
               "isGlobal": true,
-              "value": "/subscriptions/1caa5ab4-523f-4851-952b-1b689c48fae9",
+              "value": "",
               "typeSettings": {
                 "additionalResourceOptions": [],
                 "includeAll": false
